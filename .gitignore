@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LinkedListApplication/bin/Debug
+/LinkedListApplication/obj/x86
+/LinkedListApplicationTest/obj
+/TestResults
+*.suo
